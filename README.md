@@ -40,6 +40,7 @@ I enjoy solving problems using **C++**, building modern web apps with **React.js
 
 - 🔗 [LinkedIn](https://linkedin.com/in/atri-chandra)
 - 📧 [Email](mailto:atrichandra14@gmail.com)
+- 🐦 [X (Twitter)](https://x.com/atri_chandra)
 
 
 ---
