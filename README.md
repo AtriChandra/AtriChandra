@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Atri Chandra
+# 👋 Hey there! I'm Atri Chandra 
 
 I'm a final year B.E. Information Technology student at UIT, BU.  
 I enjoy solving problems in **C++**, building modern web apps with **React.js**, and exploring backend development using **Node.js** and **MongoDB**.
