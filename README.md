@@ -11,8 +11,6 @@ I enjoy solving problems using **C++**, building modern web apps with **React.js
 - 💪 LeetCode Rating: **1659**
 - 🧠 Codeforces Rating: **1231**
 - ⭐ CodeChef Rating: **1583**, Global Rank **296** in Starters 162
-- 📈 CGPA: **8.0** (till 5th semester)
-
 ---
 
 ### 📂 My Projects
@@ -41,10 +39,8 @@ I enjoy solving problems using **C++**, building modern web apps with **React.js
 ### 🔗 Connect with Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/atri-chandra)
-- 💻 [LeetCode](https://leetcode.com/u/Atri_Chandra/)
-- 🧠 [Codeforces](https://codeforces.com/profile/Atri_Chandra)
-- 🍽 [CodeChef](https://www.codechef.com/users/atri_chandra)
-- 📺 [YouTube](https://www.youtube.com/watch?v=Ps2MpCitI5E)
+- 📧 [Email](mailto:atrichandra14@gmail.com)
+
 
 ---
 
