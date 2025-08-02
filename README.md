@@ -30,9 +30,11 @@ I enjoy solving problems using **C++**, building modern web apps with **React.js
 
 ### 📊 GitHub Stats
 
-![Atri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtriChandra&show_icons=true&theme=radical)
+![Atri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtriChandra&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtriChandra&layout=compact&theme=radical)
+### 🚀 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtriChandra&layout=compact&theme=tokyonight)
 
 ---
 
