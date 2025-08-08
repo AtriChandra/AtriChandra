@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm Atri Chandra
-
+ 
 I'm a final year B.E. Information Technology student at University Institute of Technology, Burdwan University.  
 I enjoy solving problems using **C++**, building modern web apps with **React.js**, and diving into **backend development** using **Node.js** and **MongoDB**.
 
