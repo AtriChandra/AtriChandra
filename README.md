@@ -15,14 +15,15 @@ I enjoy solving problems using **C++**, building modern web apps with **React.js
 
 ### 📂 My Projects
 
+- 🔹 [Code Helper](https://code-helper-atri.vercel.app/) – A React-based interactive coding assistant powered by Google Gemini  
+  [GitHub Repo](https://github.com/AtriChandra/Code-Helper)
+
 - 🔹 [Organize Me](https://organizeme-atri.vercel.app/) – A React.js based task manager  
   [GitHub Repo](https://github.com/AtriChandra/OrganizeMe)
 
 - 🔹 [Pun Machine](https://github.com/AtriChandra/Random_Joke_Generator) – Command-line Joke Generator using Node.js  
   [YouTube Demo](https://www.youtube.com/watch?v=Ps2MpCitI5E)
 
-- 🔹 [Bubble Game](https://bubble-game-atri.vercel.app/) – A fun interactive JavaScript game  
-  [GitHub Repo](https://github.com/AtriChandra/Bubble-Game)
 
 ---
 
