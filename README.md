@@ -33,7 +33,7 @@
 | Platform | Rating | Achievement |
 |----------|--------|-------------|
 | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" /> | **1659** | 800+ Problems Solved |
-| <img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" /> | **1231** | Specialist |
+| <img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" /> | **1231** | Pupil |
 | <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white" /> | **1583** | Global Rank **296** in Starters 162 |
 
 </div>
