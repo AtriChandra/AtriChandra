@@ -20,7 +20,7 @@
 - 🔭 I'm passionate about **problem-solving** and **full-stack development**
 - 💡 I love building modern web apps with **React.js** and **Node.js**
 - 🌱 Currently exploring **System Design** and **Advanced Algorithms**
-- ⚡I've solved **1200+ DSA problems** across platforms!
+- ⚡ I've solved **1200+ DSA problems** across platforms!
 
 <br clear="right"/>
 
