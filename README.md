@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/atri-chandra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:atrichandra14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://x.com/atri_chandra"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://leetcode.com/AtriChandra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://leetcode.com/Atri_Chandra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 
 ### 🎓 Final Year B.E. Information Technology @ University Institute of Technology, Burdwan University
 
