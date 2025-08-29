@@ -20,7 +20,7 @@
 - 🔭 I'm passionate about **problem-solving** and **full-stack development**
 - 💡 I love building modern web apps with **React.js** and **Node.js**
 - 🌱 Currently exploring **System Design** and **Advanced Algorithms**
-- ⚡ Fun fact: I've solved **1200+ DSA problems** across platforms!
+- ⚡I've solved **1200+ DSA problems** across platforms!
 
 <br clear="right"/>
 
@@ -32,7 +32,7 @@
   
 | Platform | Rating | Achievement |
 |----------|--------|-------------|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" /> | **1659** | 1000+ Problems Solved |
+| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" /> | **1659** | 800+ Problems Solved |
 | <img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" /> | **1231** | Specialist |
 | <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white" /> | **1583** | Global Rank **296** in Starters 162 |
 
